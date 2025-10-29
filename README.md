@@ -33,11 +33,17 @@ I studied **Audiovisual Comunication**, **Administration (FP)** ,  **full Stack 
 
   <br/> 
   <br>
-  [![GitLab CI](https://img.shields.io/badge/-GitLab%20CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://docs.gitlab.com/ee/ci/)
-  [![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)](https://www.ansible.com/)
-  [![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)](https://www.terraform.io/)
-  [![Helm](https://img.shields.io/badge/-Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)](https://helm.sh/)
-  [![ELK](https://img.shields.io/badge/-ELK%20Stack-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)](https://www.elastic.co/what-is/elk-stack)
-  [![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+<a href='https://docs.gitlab.com/ee/ci/'><img alt='GitLab CI' src='https://img.shields.io/badge/-GitLab%20CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white' /></a>
+<a href='https://argo-cd.readthedocs.io/'><img alt='ArgoCD' src='https://img.shields.io/badge/-ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white' /></a>
+<a href='https://www.ansible.com/'><img alt='Ansible' src='https://img.shields.io/badge/-Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white' /></a>
+<a href='https://helm.sh/'><img alt='Helm' src='https://img.shields.io/badge/-Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white' /></a>
+<a href='https://www.terraform.io/'><img alt='Terraform' src='https://img.shields.io/badge/-Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white' /></a>
+<a href='https://prometheus.io/'><img alt='Prometheus' src='https://img.shields.io/badge/-Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white' /></a>
+<a href='https://grafana.com/'><img alt='Grafana' src='https://img.shields.io/badge/-Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white' /></a>
+<a href='https://www.elastic.co/what-is/elk-stack'><img alt='ELK Stack' src='https://img.shields.io/badge/-ELK%20Stack-005571?style=for-the-badge&logo=elasticsearch&logoColor=white' /></a>
+<a href='https://git-scm.com/'><img alt='Git' src='https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white' /></a>
+<a href='https://github.com/'><img alt='GitHub' src='https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white' /></a>
+<a href='https://bitbucket.org/'><img alt='Bitbucket' src='https://img.shields.io/badge/-Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white' /></a>
+
   <br/>
 </div>

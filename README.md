@@ -12,6 +12,24 @@ I studied **Audiovisual Comunication**, **Administration (FP)** ,  **full Stack 
   <img alt='HTML5' src='https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white' /></a>
   <img alt='CSS3' src='https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white' /></a>
   </br>
-  <img alt='Jenkins' /></a>
+  <a href="https://kubernetes.io/" target="_blank" rel="noopener">
+  <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" /></a>
+  <a href="https://www.docker.com/" target="_blank" rel="noopener">
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</a>
+<a href="https://www.jenkins.io/" target="_blank" rel="noopener">
+  <img alt="Jenkins" src="https://img.shields.io/badge/-Jenkins-F24E1E?style=for-the-badge&logo=jenkins&logoColor=white" />
+</a>
+<a href="https://github.com/" target="_blank" rel="noopener">
+  <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://azure.microsoft.com/" target="_blank" rel="noopener">
+  <img alt="Azure" src="https://img.shields.io/badge/-Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+</a>
+<a href="https://aws.amazon.com/" target="_blank" rel="noopener">
+  <img alt="AWS" src="https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+</a>
+</a>
+
   <br/>  
 </div>

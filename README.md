@@ -31,5 +31,13 @@ I studied **Audiovisual Comunication**, **Administration (FP)** ,  **full Stack 
 </a>
 </a>
 
-  <br/>  
+  <br/> 
+  <br>
+  [![GitLab CI](https://img.shields.io/badge/-GitLab%20CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://docs.gitlab.com/ee/ci/)
+  [![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)](https://www.ansible.com/)
+  [![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)](https://www.terraform.io/)
+  [![Helm](https://img.shields.io/badge/-Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)](https://helm.sh/)
+  [![ELK](https://img.shields.io/badge/-ELK%20Stack-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)](https://www.elastic.co/what-is/elk-stack)
+  [![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+  <br/>
 </div>

@@ -1,7 +1,6 @@
 <h1>Hi! I'm Irene 👋 <a href="https://www.linkedin.com/in/irene-matamala-munyoz-49a83024b/" target="_blank"><img alt='Linkedin' src='https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white' /></a> <a href="mailto:irenematamala@gmail.com" target="_blank"><img alt='Gmail' src='https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white' /></a></h1>
 
-I'm starting in software development.
-I want to be a **web developer** 👨‍💻
+Hola! Quiero ser una gran developer especializada en Devops. 👨‍💻
 I studied **Audiovisual Comunication**, **Administration (FP)** ,  **full Stack Developer** and **Devops**
 
 ## Tech I'm working with
